@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731358085149",
+    "project_id": "shopping-list-demo-cdec0",
+    "storage_bucket": "shopping-list-demo-cdec0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731358085149:android:58d556745c87a7118886f4",
+        "android_client_info": {
+          "package_name": "com.micujones.shoppinglist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAIMYXg3jr6nqsarGjSCYXnSqRXp540n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
