@@ -16,9 +16,6 @@ const App = () => {
         <NavigationContainer>
             <Stack.Navigator initialRouteName="Welcome">
                 <Stack.Screen name="Welcome" component={Welcome} />
-                {/* <Stack.Screen name="Welcome">
-                    {(props) => <Welcome auth={auth} {...props} />}
-                </Stack.Screen> */}
                 <Stack.Screen name="ShoppingLists">
                     {/* Passes in additional props */}
                     {(props) => <ShoppingLists db={db} {...props} />}
